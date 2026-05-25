@@ -1,21 +1,130 @@
 # 💫 Hi there:
-🚀 About Me<br><br>🎓 B.Tech student at IIIT Bhubaneswar passionate about AI/ML, Generative AI, and problem solving.<br><br>💡 Building projects in:<br>• 🤖 Generative AI & RAG Systems<br>• 🧠 Machine Learning & NLP<br>• ⚡ LLM-powered Applications<br>• 💻 DSA & Competitive Programming<br><br>🌱 Currently learning advanced GenAI, backend development, and scalable AI systems.<br><br>🤝 Open to collaborating on AI/ML projects and innovative tech ideas.<br><br>💬 Ask me about Python, AI, DSA, NLP, RAG, and Competitive Programming.<br><br>⚡ Fun Fact: I love turning ideas into real AI products through code!<br>
 
+🚀 AI/ML Enthusiast | GenAI Builder | Competitive Programmer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_raj0609) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-raj0609) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/smokyalpha1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Alpha1Smoky) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ayushraj928) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayush.raj6964@gmail.com) 
+🎓 B.Tech student at IIIT Bhubaneswar passionate about building intelligent AI systems and solving real-world problems through code.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ayush-06-gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ayush-06-gif&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayush-06-gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💡 Focus Areas:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ayush-06-gif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+* 🤖 Generative AI & RAG Systems
+* 🧠 Machine Learning & NLP
+* ⚡ LLM-powered Applications
+* 💻 DSA & Competitive Programming
+
+🌱 Currently exploring:
+
+* Advanced GenAI
+* Scalable AI Systems
+* Backend Development
+* AI Product Engineering
+
+🤝 Open to collaborations on AI/ML and innovative tech projects.
+
+💬 Ask me about Python, AI, NLP, RAG, DSA, and Competitive Programming.
+
+⚡ Fun Fact: I enjoy transforming ideas into real AI products 🚀
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ayush-06-gif&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/ayush_raj0609)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/ayush-raj0609)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/Ayush-06-gif)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces\&logoColor=white)](https://codeforces.com/profile/dabster2099)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode\&logoColor=black)](https://leetcode.com/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/Alpha1Smoky)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://youtube.com/@ayushraj928)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:ayush.raj6964@gmail.com)
+
+---
+
+# 💻 Technologies & Tools
+
+## 🚀 Programming & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+## 🧠 Machine Learning & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
+## 🤖 AI / GenAI
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" />
+</p>
+
+## 🗄️ Databases & Caching
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=redis" />
+</p>
+
+## ☁️ DevOps & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=terraform" />
+  <img src="https://skillicons.dev/icons?i=nginx" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+## 🎨 Tools & Design
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" />
+  <img src="https://skillicons.dev/icons?i=githubactions" />
+</p>
+
+---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Ayush-06-gif\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-06-gif\&theme=tokyonight\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-06-gif\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ayush-06-gif\&theme=tokyonight\&no-frame=false\&no-bg=true\&margin-w=4)
+
+---
+
+## 🚀 Featured Projects
+
+* 🤖 RAG-Based Document Q&A System
+* 🧠 Hybrid Log Classification System
+* 📊 Sentiment Analysis using Deep Learning
+
+---
+
+[![](https://komarev.com/ghpvc/?username=Ayush-06-gif\&label=Profile%20Views\&color=0e75b6\&style=flat)](https://visitcount.itsvg.in)
