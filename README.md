@@ -1,4 +1,11 @@
-# 💫 Hi there:
+<h1 align="center">
+  Hi 👋, I'm Ayush Raj
+</h1>
+<h3 align="center">
+  <sup><i>"You don't have to be great to start, but you have to start to be great."</i></sup>
+</h3>
+
+# About me:
 
 🚀 AI/ML Enthusiast | GenAI Builder | Competitive Programmer
 
@@ -28,11 +35,11 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/ayush_raj0609)
+## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/ayush-raj0609)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/Ayush-06-gif)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces\&logoColor=white)](https://codeforces.com/profile/dabster2099)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode\&logoColor=black)](https://leetcode.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/ayush_raj0609)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/smokyalpha1)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/Alpha1Smoky)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://youtube.com/@ayushraj928)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:ayush.raj6964@gmail.com)
@@ -67,9 +74,12 @@
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" width="48" height="48"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" />
 </p>
+
+
+
 
 ## 🗄️ Databases & Caching
 
@@ -105,17 +115,17 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Ayush-06-gif\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Ayush-06-gif\&theme=great-gatsby\&hide_border=false\&include_all_commits=true\&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-06-gif\&theme=tokyonight\&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-06-gif\&theme=great-gatsby\&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-06-gif\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-06-gif\&theme=great-gatsby\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Ayush-06-gif\&theme=tokyonight\&no-frame=false\&no-bg=true\&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ayush-06-gif\&theme=gruvbox\&no-frame=false\&no-bg=true\&margin-w=4)
 
 ---
 
