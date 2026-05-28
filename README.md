@@ -131,9 +131,9 @@
 
 ## 🚀 Featured Projects
 
+* 📊 Multi Agent Research System
 * 🤖 RAG-Based Document Q&A System
 * 🧠 Hybrid Log Classification System
-* 📊 Sentiment Analysis using Deep Learning
 
 ---
 
