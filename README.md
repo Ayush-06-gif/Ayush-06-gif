@@ -125,8 +125,7 @@
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy-liard-delta.vercel.app/?username=Ayush-06-gif&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-profile-trophy-fork-two.vercel.app/?username=Ayush-06-gif&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 ---
 
 ## 🚀 Featured Projects
